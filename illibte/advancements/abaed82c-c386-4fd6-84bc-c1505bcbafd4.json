@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2020-05-13 22:41:35 +0000",
+      "deep_ocean": "2020-05-13 22:42:47 +0000",
+      "plains": "2020-05-13 22:43:36 +0000"
+    },
+    "done": false
+  }
+}
