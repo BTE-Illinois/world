@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2020-06-08 00:49:49 +0000",
+      "deep_ocean": "2020-06-08 00:53:18 +0000",
+      "plains": "2020-06-08 02:49:05 +0000",
+      "mushroom_island": "2020-06-08 00:49:56 +0000"
+    },
+    "done": false
+  }
+}
