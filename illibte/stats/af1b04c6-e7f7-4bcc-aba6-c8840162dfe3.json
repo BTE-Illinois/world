@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"stat.flyOneCm":169051,"stat.walkOneCm":2878,"stat.jump":10,"stat.playOneMinute":10492,"stat.leaveGame":7,"stat.sneakTime":108,"stat.crouchOneCm":12,"stat.timeSinceDeath":10492,"stat.sprintOneCm":643,"stat.useItem.minecraft.stone_slab2":6,"stat.aviateOneCm":380252}
-=======
-{"stat.walkOneCm":2878,"stat.leaveGame":9,"stat.aviateOneCm":380252,"stat.flyOneCm":169051,"stat.jump":10,"stat.playOneMinute":10558,"stat.sneakTime":108,"stat.crouchOneCm":12,"stat.timeSinceDeath":10558,"stat.sprintOneCm":643,"stat.useItem.minecraft.stone_slab2":6}
->>>>>>> another Test
+{"stat.playOneMinute":3,"stat.leaveGame":1,"stat.timeSinceDeath":3}
