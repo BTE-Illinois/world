@@ -85,6 +85,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2020-06-26 22:55:48 +0000",
       "forest": "2020-06-09 17:24:28 +0000",
       "deep_ocean": "2020-06-11 18:05:22 +0000",
       "plains": "2020-06-11 18:08:03 +0000",
